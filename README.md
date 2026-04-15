@@ -1,46 +1,46 @@
-# Olá, eu sou o Thiago! 👋
+# Olá, eu sou o Thiago! 👋 
 
-### 🚀 Desenvolvedor Apaixonado por Tecnologia
+### 🚀 Desenvolvedor Fullstack | JavaScript & TypeScript Enthusiast
 
-Sou um entusiasta da programação, sempre buscando aprender novas ferramentas e construir soluções incríveis. Seja bem-vindo ao meu perfil!
+Atualmente focado em construir aplicações web escaláveis e performáticas. Sou movido por desafios técnicos e pela constante evolução no ecossistema de desenvolvimento moderno.
 
 ---
 
-### 📊 Minhas Estatísticas (Interativas)
+### 📊 Meu Desempenho (Atualizado em tempo real)
 
-Aqui você pode ver o meu progresso e as tecnologias que mais utilizo, atualizado em tempo real a cada commit:
+Aqui estão as estatísticas que refletem meu trabalho diário no GitHub:
 
 <p align="left">
-  <!-- Card de Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagohf23&show_icons=true&theme=radical&count_private=true" alt="thiagohf23's GitHub stats" height="192px" />
+  <!-- Status Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagohf23&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="thiagohf23's GitHub stats" height="192px" />
   
-  <!-- Card de Streak (O que você pediu!) -->
+  <!-- Seu Streak Stats (Interativo!) -->
   <img src="https://streak-stats.demolab.com?user=thiagohf23&theme=radical&hide_border=false&border_radius=4.5&mode=daily" alt="GitHub Streak" height="192px" />
 </p>
 
+### 💻 Tecnologias que mais utilizo
+Com base no volume de código e commits dos meus repositórios:
+
 <p align="left">
-  <!-- Card de Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohf23&layout=compact&theme=radical" alt="Top Langs" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohf23&layout=compact&theme=radical&langs_count=8" alt="Top Langs" height="165px" />
 </p>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Stack Tecnológica
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📫 Vamos nos conectar?
-
-Se quiser trocar uma ideia ou ver o que ando fazendo:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagohf23)
+| Frontend | Backend | Ferramentas |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-*Última atualização: 14 de Abril de 2026*
+### 📫 Vamos trocar uma ideia?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagohf23)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+---
+*“Code is like humor. When you have to explain it, it’s bad.”*
