@@ -1,25 +1,25 @@
 # Olá, eu sou o Thiago! 👋 
 
-### 🚀 Desenvolvedor Fullstack | JavaScript & TypeScript Enthusiast
+### 🚀 Laravel Specialist | TALL Stack & Filament Expert 🐘
 
-Atualmente focado em construir aplicações web escaláveis e performáticas. Sou movido por desafios técnicos e pela constante evolução no ecossistema de desenvolvimento moderno.
+Atualmente focado em construir aplicações web de alta performance e painéis administrativos complexos utilizando **Laravel** e o ecossistema **Filament v5**. Sou entusiasta da produtividade e do código limpo no ecossistema PHP.
 
 ---
 
-### 📊 Meu Desempenho (Atualizado em tempo real)
+### 📊 Minhas Estatísticas (Laravel Power)
 
-Aqui estão as estatísticas que refletem meu trabalho diário no GitHub:
+Acompanhe meu progresso e as tecnologias que eu domino no dia a dia:
 
 <p align="left">
   <!-- Status Gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=thiagohf23&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="thiagohf23's GitHub stats" height="192px" />
   
-  <!-- Seu Streak Stats (Interativo!) -->
+  <!-- Streak Stats (Interativo!) -->
   <img src="https://streak-stats.demolab.com?user=thiagohf23&theme=radical&hide_border=false&border_radius=4.5&mode=daily" alt="GitHub Streak" height="192px" />
 </p>
 
-### 💻 Tecnologias que mais utilizo
-Com base no volume de código e commits dos meus repositórios:
+### 💻 Stack de Linguagens
+*(O PHP deve brilhar aqui!)*
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohf23&layout=compact&theme=radical&langs_count=8" alt="Top Langs" height="165px" />
@@ -27,15 +27,20 @@ Com base no volume de código e commits dos meus repositórios:
 
 ---
 
-### 🛠️ Stack Tecnológica
+### 🛠️ Minha Stack Principal
 
-| Frontend | Backend | Ferramentas |
+| Frameworks & Backend | TALL Stack & UI | Tools & Ecosystem |
 | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Filament](https://img.shields.io/badge/Filament_v5-EBB308?style=for-the-badge&logo=filament&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
+
+### 🚀 No que estou trabalhando?
+- 🛠️ Desenvolvendo sistemas administrativos robustos com **Filament**.
+- 🏗️ Explorando as novidades do **Laravel 11+**.
+- 🐘 Contribuindo e aprendendo cada vez mais com a comunidade PHP.
 
 ### 📫 Vamos trocar uma ideia?
 
@@ -43,4 +48,4 @@ Com base no volume de código e commits dos meus repositórios:
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
 ---
-*“Code is like humor. When you have to explain it, it’s bad.”*
+*“Simplicity is the ultimate sophistication.” — Leonardo da Vinci (e o lema do Laravel)*
