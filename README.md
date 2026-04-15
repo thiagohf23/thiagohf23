@@ -1,5 +1,4 @@
-# 🐘 Thiago | Laravel & Filament Expert
-
+# 🐘 Thiago | Laravel & Filament
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Building_SaaS-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-TALL_Stack-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
@@ -9,7 +8,7 @@
 ---
 
 ### ⚡ Sobre Mim
-Especialista no ecossistema **Laravel**. Atualmente, dedico meu tempo criando arquiteturas robustas com **PHP 8.3+**, interfaces reativas com **Livewire** e painéis administrativos de alta complexidade com **Filament v5**. 
+Ecossistema **Laravel**. Atualmente, dedico meu tempo criando arquiteturas robustas com **PHP 8.3+**, interfaces reativas com **Livewire** e painéis administrativos de alta complexidade com **Filament v5**. 
 
 ---
 
