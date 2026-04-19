@@ -25,7 +25,7 @@ Apaixonado por código limpo, UX de painéis administrativos e pelo poder do **T
 - 🔭 Trabalhando com **Laravel + Filament** no dia a dia
 - 🌱 Explorando arquiteturas escaláveis com **Livewire** e **Alpine.js**
 - 🐳 Ambientes de desenvolvimento com **Docker**
-- 📍 Palmas, Tocantins — Brasil
+- 📍 Gurupi, Tocantins — Brasil
 
 ---
 
