@@ -45,11 +45,16 @@ Apaixonado por código limpo, UX de painéis administrativos e pelo poder do **T
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### IDEs & Editores
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
 ### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -63,6 +68,14 @@ Apaixonado por código limpo, UX de painéis administrativos e pelo poder do **T
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagohf23&theme=dark&background=0d1117&border=30363d&ring=FF2D20&fire=FDAE4B&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
+
+---
+
+## ⏱️ WakaTime — Tempo de Código
+
+<!--START_SECTION:waka-->
+<!-- Este bloco é atualizado automaticamente pelo GitHub Actions -->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -84,6 +97,10 @@ L — Laravel        → O framework PHP mais elegante
 <p align="left">
   <a href="https://github.com/thiagohf23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-thiagohf23-181717?style=flat-square&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/thiago-de-s%C3%A1-6a203729b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Thiago%20de%20Sá-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
